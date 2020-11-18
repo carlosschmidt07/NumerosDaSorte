@@ -3,10 +3,13 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
 }
+.row{
+    height: 500px;
+}
 .branco{
     background-color:white;
-    height: 500px;
-    border-radius: 0.4em;
+    height: 100%;
+    
 }
 
 .label-large {
