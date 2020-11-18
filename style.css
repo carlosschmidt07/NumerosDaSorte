@@ -1,0 +1,24 @@
+body{
+    background-image: url(https://super.abril.com.br/wp-content/uploads/2012/09/sorte-manual.png?w=1024;);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.branco{
+    background-color:white;
+    height: 500px;
+    border-radius: 0.4em;
+}
+
+.label-large {
+    vertical-align: super;
+    font-size: large;
+    background-color: #28a745;
+    color: white;
+    border-radius: 0.4em;
+    padding: .375rem .75rem;
+    margin-top: 2em;
+  }
+  #gerador{
+      margin-top: 3em;
+      align-content: center;
+  }
